@@ -16,10 +16,9 @@ module.exports = {
     connection: {
       host: "10.192.7.111",
       port: "1521",
-      //host: "scan-cluster-mulbd.corp.digitel.com.ve",
-      user: "RFORIENTE",
-      password: "Stats412oriente",
-      database: "MULDB_BDP"
+      user: "USUARIOOC",
+      password: "CONTRASEÑAOC",
+      database: "BD"
     }
   },
 
@@ -29,9 +28,9 @@ module.exports = {
     connection: {
       host: "127.0.0.1",
       port: 5432,
-      user: "postgres",
-      password: "desarrollo-Digitel412",
-      database: "app_database"
+      user: "USUARIOPG",
+      password: "CONTRASEÑAPG",
+      database: "BD"
     }
   }
 };
