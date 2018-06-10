@@ -7,10 +7,10 @@ It is made up of a set of processes that manage customer communication operation
 
 ## Details
 This system is composed of four (4) services:
-1st. Statistics and REST API query service. 
-2nd. WebSockets Alarm and Communication Service.
-3rd. Detector of erroneous patterns of the network.
-4th. Creator of time-consuming SQL query statistics summaries.
+- 1st. Statistics and REST API query service
+- 2nd. WebSockets Alarm and Communication Service.
+- 3rd. Detector of erroneous patterns of the network.
+- 4th. Creator of time-consuming SQL query statistics summaries.
 
 ## Requirements
 - Installation of dependencies
