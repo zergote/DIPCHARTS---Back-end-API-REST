@@ -1,0 +1,10 @@
+ 
+[2017-07-27 22:17:02.852] [INFO] default - [0mGET /api/users/ [33m401 [0m5.361 ms - 50[0m
+[2017-07-27 22:17:04.560] [INFO] default - [0mGET /api/users/ [33m401 [0m0.771 ms - 50[0m
+[2017-07-27 22:17:05.582] [INFO] default - [0mGET /api/users/ [33m401 [0m0.273 ms - 50[0m
+[2017-07-27 22:17:28.012] [INFO] default - [0mGET /api/users/ [33m401 [0m0.944 ms - 50[0m
+[2017-07-27 22:17:28.995] [INFO] default - [0mGET /api/users/ [33m401 [0m1.029 ms - 50[0m
+[2017-07-27 22:30:10.716] [INFO] default - [0mGET /api/users/ [33m401 [0m5.448 ms - 50[0m
+[2017-07-27 22:30:13.392] [INFO] default - [0mGET /api/users/ [33m401 [0m0.624 ms - 50[0m
+[2017-07-27 22:30:14.428] [INFO] default - [0mGET /api/users/ [33m401 [0m1.445 ms - 50[0m
+[2017-07-27 22:30:15.272] [INFO] default - [0mGET /api/users/ [33m401 [0m0.937 ms - 50[0m
